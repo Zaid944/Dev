@@ -1,1 +1,13 @@
 everything happens in a execution context
+Javascript is synchronous and single threaded
+Code -> Thread of Execution -> Line by Line execution of Code 
+Memory -> Variable Environment
+
+Run a JS Program -> Execution context
+
+Memmory creation
+first all program is scanned and variable is stored
+then code execution
+then the execution context for the fn will be deleted
+
+call stack -> execution order of execution context
